@@ -1,3 +1,20 @@
-.feed-container .content .item{border-bottom-style:solid;border-bottom-color: inherit;}
-.feed-container .content .item .title{ margin-bottom: 15px; font-family: "Prelo";}
-.feed-container .content .item:not(:first-child) .title{border: solid 1px; padding-top: 15px;}
+body{margin:0;padding:0;background-color:transparent}
+img {border:0px;}
+.feed-container{font-size:13px;border:none;}
+.feed-container .header{margin:0px;padding:5px 5px 5px 5px;color:#fff;background-color:#009cde;}
+.feed-container .footer{margin:0px;padding:5px 5px 5px 5px;color:#fff;background-color:#009cde;}
+.feed-container .header .title{font-family:"Prelo","Helvetica Neue",Helvetica,Arial,sans-serif;margin:0;padding:0;font-weight:bold;font-size:16px;}
+.feed-container .header a:link{color:#fff;text-decoration:none;}
+.feed-container .header a:visited{color:#fff;text-decoration:none;}
+.feed-container .header a:hover{color:#fff;text-decoration:underline;}
+.feed-container .header a:active{color:#fff;text-decoration:none;}
+.feed-container .content{margin:0px;background-color:transparent;}
+.feed-container .content .item{margin:15px 0;border-bottom:1px solid #ffffff;}
+.feed-container .content .item .title{font-family:"Prelo","Helvetica Neue",Helvetica,Arial,sans-serif;margin-bottom: 15px;color:#fff;font-size:24px;}
+.feed-container .content .item .title a:link{color:#ffffff;text-decoration:none;}
+.feed-container .content .item .title a:visited{color:#ffffff;text-decoration:none;}
+.feed-container .content .item .title a:hover{color:#ffffff;text-decoration:underline;}
+.feed-container .content .item .title a:active{color:#ffffff;text-decoration:none;}
+.feed-container .content .item .description{font-family:"Prelo-Book","Helvetica Neue",Helvetica,Arial,sans-serif;margin:0 0 0 3px;padding:0 2px 0 3px;color:#666;}
+.feed-container .content .item .description a{text-decoration:none;color:#9257a6;}
+.feed-container .content .item .description a:hover{text-decoration:underline;color:#cc99cc;}
