@@ -10,7 +10,7 @@ img {border:0px;}
 .feed-container .header a:active{color:#fff;text-decoration:none;}
 .feed-container .content{margin:0px;background-color:transparent;}
 .feed-container .content .item{margin:15px 0;border-bottom:1px solid #ffffff;}
-.feed-container .content .item .title{font-family:"Prelo","Helvetica Neue",Helvetica,Arial,sans-serif;margin-bottom: 15px;color:#fff;font-size:20px;}
+.feed-container .content .item .title{font-family:"Prelo","Helvetica Neue",Helvetica,Arial,sans-serif;margin-bottom: 20px;color:#fff;font-size:24px;}
 .feed-container .content .item .title a:link{color:#ffffff;text-decoration:none;}
 .feed-container .content .item .title a:visited{color:#ffffff;text-decoration:none;}
 .feed-container .content .item .title a:hover{color:#ffffff;text-decoration:underline;}
