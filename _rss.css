@@ -1,0 +1,4 @@
+
+.feed-container .content .item{border-bottom-style:solid;border-bottom-color: inherit;}
+.feed-container .content .item .title{ margin-bottom: 15px; font-family: "Prelo";}
+.feed-container .content .item:not(:first-child) .title{border: solid 1px; padding-top: 15px;}
